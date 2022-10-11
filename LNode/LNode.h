@@ -1,4 +1,4 @@
-#include "/home/hw/桌面/LRZ/Coding/C/DataStruct/DataStruct.h"
+#include "../DataStruct.h"
 
 // 寻找 i-1 的节点
 LNode * Find (Linklist &L, int location, string type) {
